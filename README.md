@@ -22,11 +22,11 @@
 
  </br>
 
-<img src="https://github.com/jhsonmac/Template-README/blob/master/projeto.jpg?raw=true" width=990px />
+<img src="https://github.com/jhsonmac/ReactJs-Repos/blob/master/srcReadme/react-repos.PNG?raw=true" width=990px />
 
 </br>
 
-<img src="https://github.com/jhsonmac/Template-README/blob/master/projeto.jpg?raw=true" width=990px />
+<img src="https://github.com/jhsonmac/ReactJs-Repos/blob/master/srcReadme/react-repos2.PNG?raw=true" width=990px />
 
 ## :beginner: Techs
 
@@ -54,11 +54,11 @@ A aplicação consiste em buscar por repositorios no gitHub e armazenalos no loc
 
  <h3> :beginner: Projeto Web </br> </br>
   <p  align="center">
-    <img src="https://github.com/jhsonmac/Template-README/blob/master/Radar%20do%20desenvolvedor.PNG?raw=true" width=90% />
+    <img src="https://github.com/jhsonmac/ReactJs-Repos/blob/master/srcReadme/react-repos2tela.PNG?raw=true" width=90% />
   </p>
 </br>
   <p  align="center">
-    <img src="https://github.com/jhsonmac/Template-README/blob/master/Radar%20do%20desenvolvedor.PNG?raw=true" width=90% />
+    <img src="https://github.com/jhsonmac/ReactJs-Repos/blob/master/srcReadme/rrt2.PNG?raw=true" width=90% />
   </p>
  </h3>
 
